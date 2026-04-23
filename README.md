@@ -17,8 +17,6 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
-
 - 🎓 Estudante do **4º ano** do curso técnico em **Desenvolvimento de Sistemas** no **IFRS — Campus Canoas**
 - 💼 **2 anos de experiência** como Desenvolvedor Front-End na **Ameii Digital**
 - 💳 Atuei em produtos financeiros: **Gateway de Pagamento**, **Banco Digital**, **Checkout**, **Workspace** e **Landing Pages**
@@ -74,7 +72,7 @@ Atuei no desenvolvimento e manutenção das principais aplicações Front-End da
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Contato
 
 <p>
   📧 <a href="mailto:loganfraga07@gmail.com">loganfraga07@gmail.com</a><br>
