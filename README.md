@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Logan Fraga 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Front-End</b> • Canoas/RS, Brasil 🇧🇷<br>
+  <b>Desenvolvedor Front-End</b> • Canoas/RS, Brasil<br>
   Construindo interfaces modernas para produtos financeiros.
 </p>
 
