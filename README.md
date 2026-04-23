@@ -74,15 +74,6 @@ Atuei no desenvolvimento e manutenção das principais aplicações Front-End da
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Log4n07&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Log4n07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
----
-
 ## 📫 Vamos conversar?
 
 <p>
