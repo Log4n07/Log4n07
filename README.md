@@ -79,6 +79,14 @@ Atuei no desenvolvimento e manutenção das principais aplicações Front-End da
   🐙 <a href="https://github.com/Log4n07">github.com/Log4n07</a>
 </p>
 
+---
+
+## Portfólio
+
+<p>
+  🐙 <a href="https://69eaf77ff99d90805e611ebc--guileless-crumble-25faa9.netlify.app/">Logan Fraga</a>
+</p>
+
 <p align="center">
   <i>"Qualidade técnica, boa experiência de usuário e entrega de valor."</i>
 </p>
