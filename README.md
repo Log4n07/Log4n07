@@ -18,7 +18,7 @@
 ---
 
 - 🎓 Estudante do **4º ano** do curso técnico em **Desenvolvimento de Sistemas** no **IFRS — Campus Canoas**
-- 💼 **2 anos de experiência** como Desenvolvedor Front-End na **Ameii Digital**
+- 💼 **6 meses de experiência** como Desenvolvedor Front-End na **Ameii Digital**
 - 💳 Atuei em produtos financeiros: **Gateway de Pagamento**, **Banco Digital**, **Checkout**, **Workspace** e **Landing Pages**
 - 🌱 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
 - 🌎 Falo **Português** (nativo), **Inglês** (avançado) e **Espanhol** (intermediário)
@@ -27,7 +27,7 @@
 
 ## 🚀 Experiência
 
-### 💼 Ameii Digital — Desenvolvedor Front-End `2 anos`
+### 💼 Ameii Digital — Desenvolvedor Front-End `6 meses`
 
 Atuei no desenvolvimento e manutenção das principais aplicações Front-End da empresa:
 
@@ -84,7 +84,7 @@ Atuei no desenvolvimento e manutenção das principais aplicações Front-End da
 ## Portfólio
 
 <p>
-  🐙 <a href="https://69eaf77ff99d90805e611ebc--guileless-crumble-25faa9.netlify.app/">Logan Fraga</a>
+  🐙 <a href="https://portfolio-logan-fraga.netlify.app/">Logan Fraga</a>
 </p>
 
 <p align="center">
